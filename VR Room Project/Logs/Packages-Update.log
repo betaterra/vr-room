@@ -1,0 +1,10 @@
+
+=== Fri Jun  4 14:00:10 2021
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.render-pipelines.universal from version 10.3.2 to 10.4.0
+  com.unity.xr.oculus from version 1.8.1 to 1.9.0
+  com.unity.xr.openxr from version 1.0.3 to 1.1.1
